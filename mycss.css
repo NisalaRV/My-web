@@ -406,7 +406,7 @@ legend {
 }
 .skil ul
 {
-    top: 10px;
+    top: -16px;
     left: 0;
     right: 0;
     margin: auto;
@@ -577,7 +577,7 @@ h2.skincolors
 
 .alph {
     height: 137px;
-    margin-right: -155px;
+    margin-right: -124px;
     margin-bottom: 454px;
 }
 #txth1
